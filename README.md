@@ -3,7 +3,7 @@ Side project to build Python microservices with FastAPI
 
 ## How to run project
  - Make sure you have installed `docker` and `docker-compose`
- - Run `docker-compose up -d`
+ - Run `docker-compose up -d` or `docker compose up -d`
 
 ## Components
 - Nginx [PORT 8080] Use for reverse proxy to microservice
